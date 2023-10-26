@@ -1,5 +1,5 @@
 body {
-    background-color: whitesmoke;
+    background-color: black;
 }
 
 .container {
@@ -14,7 +14,7 @@ body {
     justify-content: space-between;
 }
 .navigation{
-    background-color: antiquewhite;
+    background-color: yellow;
 }
 nav {
     margin: 20px;
